@@ -1,0 +1,7 @@
+/* src/App.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom right, #fdbebe, #ff94b1, #ffab91, #ffcccb, #ffe5b4);    min-height: 100vh; /* Ensure the body covers the full viewport height */
+    background-attachment: fixed;
+  }
